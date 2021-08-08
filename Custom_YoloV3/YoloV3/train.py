@@ -188,7 +188,7 @@ def train():
                                              batch_size=batch_size,
                                              num_workers=nw,
                                              shuffle=not opt.rect,  # Shuffle=True unless rectangular training is used
-                                             pin_memory=True,
+                                             pin_memory=False,
                                              collate_fn=dataset.collate_fn)
 
     # Testloader
@@ -199,7 +199,7 @@ def train():
                                                                  single_cls=opt.single_cls),
                                              batch_size=batch_size,
                                              num_workers=nw,
-                                             pin_memory=True,
+                                             pin_memory=False,
                                              collate_fn=dataset.collate_fn)
 
     # Model parameters
