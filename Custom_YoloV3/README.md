@@ -15,7 +15,7 @@ Download the dataset from [here](https://drive.google.com/file/d/1sVSAJgmOhZk6UG
 
 Use the annotation tool from this [repo](https://github.com/miki998/YoloV3_Annotation_Tool). The installation steps are mentioned in the repo. Using the tool annotate the images with bounding boxes. These 100 images are then merged with the above dataset.
 
-![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/annotation.PNG)
+![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/annotation.PNG)
 
 ```
 data
@@ -76,13 +76,13 @@ boots
 
 ### A Collage of Training images
 
-![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/train_batch0.png)
+![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/train_batch0.png)
 
 
 
 ### Logs
 
-![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/results.png)
+![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/results.png)
 
 
 
@@ -92,15 +92,15 @@ boots
 
 
 
-| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj1_003.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj1_015.jpg) |
+| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj1_003.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj1_015.jpg) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj1_016.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj1_024.jpg) |
-| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj2_001.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj2_003.jpg) |
-| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj2_006.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj2_009.jpg) |
-| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj3_001.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj3_011.jpg) |
-| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj3_017.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj3_023.jpg) |
-| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj4_008.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj4_009.jpg) |
-| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj4_015.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/tree/main/Custom_YoloV3/output_images/custom_obj4_016.jpg) |
+| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj1_016.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj1_024.jpg) |
+| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj2_001.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj2_003.jpg) |
+| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj2_006.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj2_009.jpg) |
+| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj3_001.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj3_011.jpg) |
+| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj3_017.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj3_023.jpg) |
+| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj4_008.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj4_009.jpg) |
+| ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj4_015.jpg) | ![](https://github.com/gokul-pv/EVA6_Assignments_Session11/blob/main/Custom_YoloV3/YoloV3/output_images/custom_obj4_016.jpg) |
 
 
 
